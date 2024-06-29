@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vallify/static/css/main.f855e6bc.css",
+    "main.js": "/vallify/static/js/main.18a097bd.js",
+    "static/js/453.996a3660.chunk.js": "/vallify/static/js/453.996a3660.chunk.js",
+    "static/media/logo.svg": "/vallify/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vallify/index.html",
+    "main.f855e6bc.css.map": "/vallify/static/css/main.f855e6bc.css.map",
+    "main.18a097bd.js.map": "/vallify/static/js/main.18a097bd.js.map",
+    "453.996a3660.chunk.js.map": "/vallify/static/js/453.996a3660.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.18a097bd.js"
+  ]
+}
