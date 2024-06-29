@@ -1,4 +1,4 @@
-name: Abhijith's Github Pages Deploy
+name: Abhijith's Github Page Deploy
 
 on:
   push:
