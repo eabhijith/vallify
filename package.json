@@ -1,5 +1,6 @@
 {
   "name": "vallify",
+  "homepage": "https://eabhijith.github.io/vallify",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
