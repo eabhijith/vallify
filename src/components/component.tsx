@@ -218,7 +218,7 @@ export function Component() {
       <section className="bg-muted py-12 px-6">
         <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="flex flex-col justify-center">
-            <h1 className="text-4xl font-bold mb-4">Find the Best Construction Materials</h1>
+            <h1 className="text-4xl font-bold mb-4">testing for material</h1>
             <p className="text-muted-foreground mb-6">
               Search our wide selection of high-quality construction materials for all your building needs.
             </p>
